@@ -11,4 +11,5 @@ def index():
     print("until_state_fullest_down")
     print("dang it")
     print("oh dang it")
+    print("oh dang itgwe")
     return render_template("user-feed.html")
