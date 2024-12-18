@@ -14,3 +14,4 @@ def index():
     print("oh dang itgwe")
     print("oh dqtqwtweang itgwe")
     return render_template("user-feed.html")
+print("oh dqtqwtweang itgwe")
